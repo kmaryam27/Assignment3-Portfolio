@@ -17,3 +17,10 @@ divClickList3.style.cursor = 'pointer';
 divClickList3.onclick = function() {
     location.href = "https://kmaryam27.github.io/Assignment2-ResponisiveLayouts-3/17-Stu_Practice3/Unsolved/";
 };
+
+const divClickList4 = document.getElementById('ptf_4');
+divClickList4.style.cursor = 'pointer';
+
+divClickList4.onclick = function() {
+    location.href = "https://kmaryam27.github.io/Assignment3-activity30/30-activity/unsolved/";
+};
